@@ -1,0 +1,50 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+
+.myClass{
+    font-size: 30px;
+    width:100%;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#something{
+    float: right;
+}
+
+.env-li{
+    margin-top:15px;
+}
+
+.env-li h4{
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+
+.env-li p{
+    margin-top:10px;
+}
+
+.someClass span{
+    color: gold;
+}
+
+.someClass h5{
+    font-size: 25px;
+}
